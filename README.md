@@ -44,9 +44,9 @@ Hello there, my name is Erzagar Badi'uz Zamani Ahmad, I'M from Indonesia/Jawa Ti
 
 ### Follow Me On
 
-[![Instagram: erzagarbza](https://img.shields.io/badge/-@fiqtorr-purple?style=flat-square?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/fiqtorr/)](https://www.instagram.com/erzagarbza/)
-[![Tiktok: @erzagarbza1](https://img.shields.io/badge/-@fiqtor-black?style=flat-square?style=flat&logo=Tiktok&logoColor=whitee&link=https://www.tiktok.com/@fiqtor/)](https://www.tiktok.com/@erzagarbza1/)
-[![Youtube: Erzagar BZA](https://img.shields.io/badge/-fiqtor-red?style=flat-square?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/fiqtor/)](https://www.youtube.com/@erzagarbza/)
+[![Instagram: erzagarbza](https://img.shields.io/badge/-@erzagarbza-purple?style=flat-square?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/fiqtorr/)](https://www.instagram.com/erzagarbza/)
+[![Tiktok: @erzagarbza1](https://img.shields.io/badge/-@erzagarbza1-black?style=flat-square?style=flat&logo=Tiktok&logoColor=whitee&link=https://www.tiktok.com/@fiqtor/)](https://www.tiktok.com/@erzagarbza1/)
+[![Youtube: Erzagar BZA](https://img.shields.io/badge/-Erzagar+BZA-red?style=flat-square?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/fiqtor/)](https://www.youtube.com/@erzagarbza/)
 
 ### Find Me
 
