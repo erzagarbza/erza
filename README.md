@@ -52,7 +52,7 @@ Hello there, my name is Erzagar Badi'uz Zamani Ahmad, I'M from Indonesia/Jawa Ti
 
 <a href="mailto:erzzzstore01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-erzzzstore01@gmail.com-blue?style=flat&logo=email"></a>
 [![](https://komarev.com/ghpvc/?username=erzagarbza&color=blue&label=Profile%20Views)](https://github.com/erzagarbza/erza)
-[![](https://img.shields.io/github/followers/FIQTOR?label=GitHub%20Followers)](https://github.com/FIQTOR)
+[![](https://img.shields.io/github/followers/FIQTOR?label=GitHub%20Followers)](https://github.com/erzagarbza)
 
 
 ### My Github Statistics
