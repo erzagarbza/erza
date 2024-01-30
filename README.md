@@ -2,7 +2,7 @@
 
 **`(Full-stack Web Developer)`**
 
-<a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/erzagarbza.vercel.app-white?style=flat&logo=email"></a>
+<a href="https://erzagarbza.vercel.app"><img alt="Website" src="https://img.shields.io/badge/erzagarbza.vercel.app-white?style=flat&logo=email"></a>
 
 Hello there, my name is Erzagar Badi'uz Zamani Ahmad, I'M from Indonesia/Jawa Timur/Surabaya, I am a website developer, with the skills I have I can create applications that are responsive and have good quality. 
 
